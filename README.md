@@ -31,9 +31,8 @@ Atualmente curso Engenharia de Software na UNIPAR de Francisco Beltrão e estou 
 
 ## 📌 Projetos em destaque
 
-- [**Controle Financeiro**](#) — Sistema para gerenciamento de receitas, despesas e investimentos pessoais.  
-- [**Portfólio Pessoal**](#) — Site pessoal para apresentar meus projetos e trajetória.
-- [**Gerador de Currículo**](#) — Site para gerar curriculo pessoal.  
+- Controle Financeiro — Sistema para gerenciamento de receitas, despesas e investimentos pessoais.
+- Gerador de Currículo — Site para gerar curriculo pessoal.  
 
 
 ---
