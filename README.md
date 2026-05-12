@@ -35,7 +35,7 @@ Sou acadêmico de Engenharia de Software na UNIPAR (Francisco Beltrão) e estou 
 | :--- | :--- | :--- |
 | **[Controlei](https://github.com/VagnerCrestanni/Controlei)** | Sistema de gestão financeira pessoal com foco em UX e investimentos. | React, Node.js, SQL |
 | **[WeatherApp](https://github.com/VagnerCrestanni/WeatherApp.git)** | App de previsão do tempo. | java |
-| **[Gerador de Currículo](https://github.com/VagnerCrestanni/Gerador_de_curr-culo_APO.git)** | Ferramenta para automatização de documentos profissionais. | HTML, JS, CSS |
+| **[Gestão de Estoque](https://github.com/VagnerCrestanni/Gestao-Estoque.git)** | Sistema completo de gestão de estoque. | HTML, JS, CSS, PHP |
 
 ---
 
